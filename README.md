@@ -79,5 +79,5 @@ REQUIREMENTS                          |  PROCESSING MODAL                    | S
 
 * [easypay-network/COMDEX-2023](https://github.com/easypay-network/COMDEX-2023) - EasyPay Network project root documentation repository
 * [easypay-network/hackathon-frontend](https://github.com/easypay-network/hackathon-frontend) - dApp for interacting with our EasyPay Network Payment System.
-* [easypay-network/hackathon-server](https://github.com/easypay-network/hackathon-server) - CosmWasm Inter-blockchain protocol implementation
+* [easypay-network/hackathon-server](https://github.com/easypay-network/hackathon-server) - server-side component that connects the graph database and the pathfinder with the frontend client. This component handles the core business logic, ensuring that transactions are executed seamlessly and securely.
 * [easypay-network/hackathon-database](https://github.com/easypay-network/hackathon-database) - cypher scripts for neo4j database
